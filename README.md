@@ -1,6 +1,7 @@
 # Analyseur d'Images Pathologiques
 
-Ce projet est une application d'analyse d'images pathologiques qui permet de charger une image, d'analyser les cellules présentes, de générer un rapport clinique détaillé et d'afficher une image annotée avec les anomalies détectées.
+Ce projet est un prorotype d'application d'analyse d'images pathologiques qui permet de charger une image, d'analyser les cellules présentes, de générer un rapport clinique détaillé et d'afficher une image annotée avec les anomalies détectées. 
+A ce stade il s'agit plutôt de comptage et d'analyse de cellules et d'anomalies. Reste à affiner sur des exemples spécifiques et d'ajouter la couche d'expertise scientifique médicale pour pouvoir en déduire des indices d'aide au diagnostique.
 
 ## Prérequis
 
