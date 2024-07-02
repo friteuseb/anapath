@@ -12,9 +12,7 @@ venv/
 ENV/
 
 # Ignore image files
-*.png
-*.jpg
-*.jpeg
+
 
 # Ignore IDE specific files
 .vscode/
