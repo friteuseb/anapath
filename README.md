@@ -4,10 +4,21 @@ Ce projet est une application d'analyse d'images pathologiques qui permet de cha
 
 ## Prérequis
 
+
+Installation simple avec un rappatriement du repo sur votre local : 
+
+```bash
+git clone https://github.com/friteuseb/anapath
+```
 Assurez-vous d'avoir installé les bibliothèques Python nécessaires en exécutant :
 
 ```bash
 pip install -r requirements.txt
+```
+Lancement de l'interface d'analyse avec : 
+
+```bash
+python3 pathology_image_gui.py
 ```
 
 ## Utilisation
